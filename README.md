@@ -1,5 +1,9 @@
 # StudentDatabaseWithSQLite
 
+![studentDatabaseWithSQLite](https://user-images.githubusercontent.com/43594702/120023826-371aa680-bfa3-11eb-94d6-5f0232e43298.png)
+
+[See it in action!](https://www.youtube.com/watch?v=MFjOVowviUQ)
+
 ## Project created by:
 
 Name: Diego Avena
