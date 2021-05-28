@@ -23,9 +23,7 @@ the version the program was last ran in without issue.
 
 ## References:
 
-1.)
-
-I wanted to use OOP in order to get a better organization
+1.) I wanted to use OOP in order to get a better organization
 set up for the code, so in order to understand how to do this
 in python, I used these sites:
 
