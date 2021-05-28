@@ -2,7 +2,7 @@
 
 ## Project created by:
 
-NAME: Diego Avena
+Name: Diego Avena
 
 Email: avena@chapman.edu
 
